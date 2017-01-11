@@ -1,0 +1,1 @@
+javascript: (function () {var script = document.createElement('script');script.setAttribute('src', 'https://getuikit.com/migrate.min.js');document.body.appendChild(script);}());

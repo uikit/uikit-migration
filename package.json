@@ -1,0 +1,12 @@
+{
+  "name": "uikit-migrate",
+  "title": "UIkit Migrate",
+  "description": "",
+  "version": "",
+  "devDependencies": {
+    "buble": "^0.15.1",
+    "buble-loader": "^0.4.0",
+    "uglify-js": "^2.7.3",
+    "webpack": "^2.2.0-rc.3"
+  }
+}
