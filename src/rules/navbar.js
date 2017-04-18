@@ -4,7 +4,7 @@ export default {
     messages: [
         {
             selector:'.uk-navbar',
-            notice:'The content of the navbar needs to be wraped into a container containing the float ( e.g. uk-navbar-left)',
+            notice:'The content of the navbar needs to be wrapped into a container containing the float ( e.g. uk-navbar-left)',
             example:`<div class="uk-navbar">
     <div class="uk-navbar-left"></div>
     <div class="uk-navbar-center"></div>
